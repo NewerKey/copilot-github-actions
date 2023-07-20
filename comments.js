@@ -1,4 +1,4 @@
-// Create a web server
+// Create web server
 
 // Import the express module
 const express = require('express');
